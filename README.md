@@ -1,2 +1,2 @@
-# Lippmann_PES
-Lippmann-Schwinger final 스테이트를 사용한 TRPES 계산 코드
+# GraphenePES
+그래핀 PES code. final state가 plane wave인 version
